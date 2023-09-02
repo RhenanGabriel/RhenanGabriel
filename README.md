@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RhenanGabriel
-- 👀 I’m interested in programar
+- 👀 I’m interested in programation
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on front-ende
 - 📫 How to reach me rhenangabriel88@gmail.com
